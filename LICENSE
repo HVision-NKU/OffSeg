@@ -1,0 +1,28 @@
+Copyright 2025 The OffSeg Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+---
+
+Additional Patent and Commercial Use Restrictions:
+
+This software contains patented technology.  
+The patent holder grants permission to use, reproduce, and modify this software only for non-commercial, academic, or research purposes.
+
+Commercial use, including but not limited to selling, licensing, or incorporating this software or its derivatives into commercial products or services, is prohibited without obtaining a separate commercial license from the patent holder.
+
+For commercial licensing inquiries, please contact: [zhangshichen@mail.nankai.edu.cn].
+
+---
+
+This license does not modify the terms of the Apache License 2.0 regarding copyright and distribution of the software itself, but adds an explicit restriction on patent and commercial use as described above.
