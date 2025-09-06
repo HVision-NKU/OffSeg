@@ -1,6 +1,6 @@
 # Revisiting Efficient Semantic Segmentation: Learning Offsets for Better Spatial and Class Feature Alignment (ICCV 2025)
 
-### [Project page](https://github.com/HVision-NKU/OffSeg) | [Paper](https://mftp.mmcheng.net/Papers/25ICCV-OffsetLearning.pdf) | [arXiv](https://arxiv.org/abs/2508.08811) | [中译版]() | [Jittor]()
+### [Project page](https://github.com/HVision-NKU/OffSeg) | [Paper](https://mftp.mmcheng.net/Papers/25ICCV-OffsetLearning.pdf) | [arXiv](https://arxiv.org/abs/2508.08811) | [中译版](resources/25ICCV-OffsetLearning-cn.pdf) | [Jittor]()
 
 This repository contains the official Pytorch implementation of training & evaluation code and the trained models for [Offset Learning & OffSeg](https://arxiv.org/abs/2508.08811).
 
