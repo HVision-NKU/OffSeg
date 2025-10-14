@@ -1,4 +1,14 @@
--r requirements/optional.txt
--r requirements/runtime.txt
--r requirements/tests.txt
--r requirements/multimodal.txt
+jittor
+Pillow
+numpy 
+matplotlib
+pyyaml
+tensorboardX
+opencv-python
+tqdm
+terminaltables
+requests
+scipy
+prettytable
+
+# apt install openmpi-bin openmpi-common libopenmpi-dev

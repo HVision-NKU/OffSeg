@@ -119,3 +119,4 @@ mmseg/.mim
 # Pytorch
 *.pth
 pretrained
+datasets
