@@ -21,10 +21,9 @@ Offset Learning is a new semantic segmentation paradigm that efficiently learns 
 * **Proven Effectiveness**: Validated across diverse models and datasets, showing strong improvements especially in lightweight settings.
 
 ## News
-- **`2025.10.14`**: The [Jittor version code](https://github.com/HVision-NKU/OffSeg/tree/jittor) has been released for [Jittor](https://github.com/Jittor/jittor) users.
 - **`2025.09.06`**: The [Chinese version](resources/25ICCV-OffsetLearning-cn.pdf) has been updated for Chinese readers.
 - **`2025.08.13`**: Add [tutorial](toturials/Toturial:Using_Offset_Learning_In_Your_Own_Model.md) on how to apply the Offset Learning paradigm to your own models.
-- **`2025.08.12`**: The full training & evaluation code and the trained models are released.
+- **`2025.08.12`**: The full training & evaluation code & [Jittor version code](https://github.com/HVision-NKU/OffSeg/tree/jittor) and the trained models are released.
 - **`2025.06.26`**: Our paper is accepted to ICCV 2025!
 
 ## TODO
